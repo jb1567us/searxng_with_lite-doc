@@ -1,0 +1,3 @@
+@echo off
+echo Starting SearXNG via Lite-Dock...
+call run_searxng.bat
